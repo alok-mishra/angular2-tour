@@ -18,6 +18,8 @@
     "files": [
         "app/app.component.spec.ts",
         "app/app.component.ts",
+        "app/hero-detail.component.ts",
+        "app/hero.ts",
         "app/main.ts",
         "typings/globals/core-js/index.d.ts",
         "typings/globals/jasmine/index.d.ts",
